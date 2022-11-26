@@ -12,15 +12,7 @@ export default class Menu extends Component {
     </a>
     {/* Sidebar */}
     <div className="sidebar">
-      {/* Sidebar user panel (optional) */}
-      <div className="user-panel mt-3 pb-3 mb-3 d-flex">
-        <div className="image">
-          <img src="dist/img/user2-160x160.jpg" className="img-circle elevation-2" alt="User Image" />
-        </div>
-        <div className="info">
-          <a href="#" className="d-block">Alexander Pierce</a>
-        </div>
-      </div>
+      
       {/* SidebarSearch Form */}
       <div className="form-inline">
         <div className="input-group" data-widget="sidebar-search">
